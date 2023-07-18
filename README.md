@@ -4,7 +4,6 @@
 
 A website for gathering feedbacks for an art public speech academy. The website uses Node.js, Express, Bootstrap, JQuery and EJS
 
-![ROUX academy Home page](./project-images/ROUX%20academy.png)
 
 ## Tools
 
